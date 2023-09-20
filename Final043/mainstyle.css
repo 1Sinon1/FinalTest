@@ -1,0 +1,13 @@
+body {
+               font-family: Tahoma;
+               font-size: 14px;
+               background: url("images/HBD\ sinon.jpg");
+}
+.contain {
+               width: 50%;
+               height: 800px;
+               margin: auto;
+               overflow: hidden;
+               background: hsl(202, 100%, 63%);
+               color: rgb(0, 0, 0)
+           }
